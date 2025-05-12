@@ -41,7 +41,7 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/karanprasadgupta/WhatsAppChatAnalzyer.git
+   git clone https://github.com/RN18o/WhatsAppChat-Analyzer.git
    ```
 2. Navigate to the project directory:
    ``` shell
