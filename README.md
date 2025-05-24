@@ -21,8 +21,6 @@ The project utilizes various open-source libraries and tools. See the [`requirem
 
 ## Demo
 
-Check out the live demo of the WhatsAppChatAnalzyer App:  [https://karanprasadgupta-whatsappchatanalzyer-main-lrxq8x.streamlit.app/](https://karanprasadgupta-whatsappchatanalzyer-main-lrxq8x.streamlit.app/)
-
 > *If the website does not load properly, try opening it in incognito mode.*
 
 ## Features
@@ -59,7 +57,7 @@ To get a local copy of this project up and running, follow these steps:
 
 ## Usage
 - Export your WhatsApp chat conversation as a text file. You can find instructions on how to export chat logs on the WhatsApp website.
-- Visit the  app [website](https://karanprasadgupta-whatsappchatanalzyer-main-lrxq8x.streamlit.app/) or run the app in local environment.
+- run the app in local environment.
 - Upload the chat text file on the server.
 - Follow the on-screen instructions to choose the desired analysis options.
 
